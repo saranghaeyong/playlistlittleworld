@@ -1,0 +1,6 @@
+{
+  "name": "My Little World",
+  "description": "A cozy, lightweight interactive anime summer afternoon world with ambient sounds, exploration, and relaxing music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
